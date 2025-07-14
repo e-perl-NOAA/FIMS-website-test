@@ -11,7 +11,14 @@
     "href": "about/index.html",
     "title": "About FIMS",
     "section": "",
-    "text": "👋 Hey there!\n\n\nThe NOAA Fisheries Integrated Modeling System is a software system designed to support next-generation fisheries stock assessment, ecosystem, and socioeconomic modeling.\nA team of experts within NOAA Fisheries is designing and developing the system, and we are advised by the FIMS Council which includes academic, industry, and international partners. The roles of internal and external collaborators are outlined in the governance section of our developer guide.\nA beta version of the software was released in 2023 and we plan to have another beta release in 2024. Users and developers are welcome to join the Discussions board or submit bug reports using GitHub issues. Please use the issues under collaborative workflow to make suggestions about the developer guide and the issues under the FIMS software repository for software design and development feedback."
+    "text": "👋 Hey there!\n\n\nThe NOAA Fisheries Integrated Modeling System is a software system designed to support next-generation fisheries stock assessment, ecosystem, and socioeconomic modeling.\nA team of experts within NOAA Fisheries is designing and developing the system, and we are advised by the FIMS Council which includes academic, industry, and international partners. The roles of internal and external collaborators are outlined in the governance section of our developer guide."
+  },
+  {
+    "objectID": "about/index.html#get-involved",
+    "href": "about/index.html#get-involved",
+    "title": "About FIMS",
+    "section": "Get involved",
+    "text": "Get involved\nUsers and developers are welcome to join the Discussions board or submit bug reports using GitHub issues. Please use the issues under collaborative workflow to make suggestions about the developer guide and the issues under the FIMS software repository for software design and development feedback."
   },
   {
     "objectID": "about/index.html#current-project-status",
