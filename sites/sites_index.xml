@@ -6,12 +6,12 @@
       version="2.0">
 <channel>
 <title>FIMS</title>
-<link>https://e-perl-noaa.github.io/fims-website-test/pages/sites_index.html</link>
-<atom:link href="https://e-perl-noaa.github.io/fims-website-test/pages/sites_index.xml" rel="self" type="application/rss+xml"/>
+<link>https://e-perl-noaa.github.io/fims-website-test/sites/sites_index.html</link>
+<atom:link href="https://e-perl-noaa.github.io/fims-website-test/sites/sites_index.xml" rel="self" type="application/rss+xml"/>
 <description>Websites associated with FIMS.
 </description>
 <generator>quarto-1.7.32</generator>
-<lastBuildDate>Mon, 14 Jul 2025 20:51:29 GMT</lastBuildDate>
+<lastBuildDate>Mon, 14 Jul 2025 21:00:44 GMT</lastBuildDate>
 <item>
   <title>🔍 FIMS case studies</title>
   <link>https://e-perl-noaa.github.io/fims-website-test/</link>
@@ -22,7 +22,7 @@
   <category>ASAP</category>
   <category>TMB</category>
   <guid>https://e-perl-noaa.github.io/fims-website-test/</guid>
-  <pubDate>Mon, 14 Jul 2025 20:51:29 GMT</pubDate>
+  <pubDate>Mon, 14 Jul 2025 21:00:44 GMT</pubDate>
 </item>
 <item>
   <title>📔 Developer Handbook</title>
@@ -32,7 +32,7 @@
   <category>developers</category>
   <category>contributing</category>
   <guid>https://e-perl-noaa.github.io/fims-website-test/</guid>
-  <pubDate>Mon, 14 Jul 2025 20:51:29 GMT</pubDate>
+  <pubDate>Mon, 14 Jul 2025 21:00:44 GMT</pubDate>
 </item>
 <item>
   <title>💻 Trainings</title>
@@ -43,7 +43,7 @@
   <category>C++</category>
   <category>TMB</category>
   <guid>https://e-perl-noaa.github.io/fims-website-test/</guid>
-  <pubDate>Mon, 14 Jul 2025 20:51:29 GMT</pubDate>
+  <pubDate>Mon, 14 Jul 2025 21:00:44 GMT</pubDate>
 </item>
 </channel>
 </rss>
