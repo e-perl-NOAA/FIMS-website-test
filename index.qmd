@@ -1,0 +1,117 @@
+---
+pagetitle: "FIMS"
+page-layout: full
+title-block-banner: false
+
+listing:
+  - id: fims-sites-listing
+    type: grid
+    max-items: 9
+    page-size: 3
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    fields: [title, description]
+    contents:
+        - path: https://noaa-fims.github.io/case-studies/
+          title: 🔍 FIMS case studies
+          description: >
+            Test cases, based on regional assessments, to illustrate use of FIMS.
+          categories: [WHAM, SS3, ASAP, TMB]
+          # image: images/case_study.jpg
+          # image-alt: >
+          #   Image of a laptop, book, and chart with text that says case study
+        - path: https://noaa-fims.github.io/collaborative_workflow/
+          title: 📔 Developer Handbook
+          description: >
+            The FIMS developer handbook describes the workflow for developers and contributors.
+          categories: [developers, contributing, guide, advanced]
+          # image: images/contribution.jpg
+          # image-alt: >
+          #   Image of puzzle pieces with a hand adding a final puzzle piece
+        - path: https://noaa-fims.github.io/FIMS_training/
+          title: 💻 Trainings
+          description: >
+            FIMS training materials including C++, TMB, etc.
+          categories: [training, C++, TMB]
+          # image: images/training.png
+          # image-alt: >
+          #   Image of people sitting around a white board with an instructor standing in front of the whiteboard.
+header-includes: >
+  <link rel="stylesheet" href="_assets/index.css">
+resources:
+  - _assets/index.css
+  - images/case_study.jpg
+  - images/contribution.jpg
+  - images/training.png
+  - images/FIMS_logo3.png
+---
+
+```{=html}
+<div class="site-hero mb-5">
+  <div class="site-intro">
+    <h1 class="site-title text-primary mt-0 fw-lighter text-center text-sm-start">
+      NOAA Fisheries Integrated Modeling System
+    </h1>
+
+    <div class="social-icon-links my-3" aria-hidden="true">
+      <a
+        class="link-primary"
+        href="https://github.com/NOAA-FIMS"
+        title="github"
+        target="_blank"
+        rel="noopener"
+      >
+        <i class="fab fa-github fa-lg fa-fw"></i>
+      </a>
+
+      <a
+        class="link-primary"
+        href="https://noaa-fims.r-universe.dev"
+        title="r-project"
+        target="_blank"
+        rel="noopener"
+      >
+        <i class="fab fa-r-project fa-lg fa-fw"></i>
+      </a>
+
+      <a
+        class="link-primary"
+        href="https://noaa-fims.github.io/collaborative_workflow/"
+        title="developer-handbook"
+        target="_blank"
+        rel="noopener"
+      >
+        <i class="fa fa-book fa-lg fa-fw"></i>
+      </a>
+
+      <a
+        class="link-primary"
+        href="https://nmfs-ost.github.io/noaa-fit/"
+        title="FIT"
+        target="_blank"
+        rel="noopener"
+      >
+        <i class="fa fa-briefcase fa-lg fa-fw"></i>
+      </a>
+    </div>
+
+    <p class="site-intro fs-5">
+      Welcome to the <strong>Fisheries Integrated Modeling System (FIMS)</strong> 
+      development website! <br>
+      <strong>FIMS</strong> is a software system designed to support next-generation 
+      fisheries stock assessment, ecosystem, and socioeconomic modeling.
+    </p>
+    <a class="mt4 action text" href="/about">See the about page for more! →</a>
+  </div>
+
+  <div class="site-logo">
+    <img src="images/FIMS_logo3.png" alt="FIMS Logo">
+  </div>
+</div>
+```
+
+## [Useful sites](sites/sites_index.qmd)
+
+::: {#sites-listing}
+:::
