@@ -133,6 +133,41 @@
     "text": "v0.1.0.0 (release notes)\nThis is the first version of the Fisheries Integrated Modeling System (FIMS). At this stage, FIMS can be used to estimate a simple age-structured population model such as case 0 in Li et al. (2021)’s manuscript. Please refer to the collaborative workflow for a description of the model functionality and completeness. Documentation can be found here.\nFull Changelog: https://github.com/NOAA-FIMS/FIMS/commits/v0.1.0"
   },
   {
+    "objectID": "about/contributors.html",
+    "href": "about/contributors.html",
+    "title": "FIMS Team",
+    "section": "",
+    "text": "FIMS is a collaborative effort that would not be possible without the generous support of NOAA Fisheries and its employees as well as members of the FIMS Council."
+  },
+  {
+    "objectID": "about/contributors.html#core-developers",
+    "href": "about/contributors.html#core-developers",
+    "title": "FIMS Team",
+    "section": "Core Developers",
+    "text": "Core Developers\n\nKelli F. Johnson (OST)\nAlexander J. Jensen (SWFSC)\nAndrea M. Havron\nBai Li (OST)\nChristine C. Stawitz (OST)\nChristopher M. Legault (NEFSC)\nCole C. Monnahan (AFSC)\nEric J. Ward (NWFSC)\nIan G. Taylor (NWFSC)\nJane Y. Sullivan (AFSC)\nJon K. T. Brodziak (PIFSC)\nKathryn L. Doering (OST)\nKyle W. Shertzer (SEFSC)\nMatthew Supernaw (OST)\nMegumi C. Oshima (PIFSC)\nNathan R. Vaughan (Vaughan Analytics)\nPeter T. Kuriyama (SWFSC)\nRonald Klasky (T and T Consulting Services, Inc.)\nTimothy J. Miller (NEFSC)"
+  },
+  {
+    "objectID": "about/contributors.html#subject-matter-experts",
+    "href": "about/contributors.html#subject-matter-experts",
+    "title": "FIMS Team",
+    "section": "Subject-Matter Experts",
+    "text": "Subject-Matter Experts\n\nHoward Townsend (OST)\nJames N. Ianelli (AFSC)\nJennifer S. Bigman (OST)\nLisa Pfeiffer (NWFSC)\nPatrick D. Lynch (OST)\nRichard D. Methot (OST)"
+  },
+  {
+    "objectID": "about/contributors.html#contributors",
+    "href": "about/contributors.html#contributors",
+    "title": "FIMS Team",
+    "section": "Contributors",
+    "text": "Contributors\n\nAlan C. Haynie (ICES)\nEdward J. Dick (SWFSC)\nHuihua Lee (SWFSC)\nKristan Blackhart (NEFSC)"
+  },
+  {
+    "objectID": "about/contributors.html#fims-council",
+    "href": "about/contributors.html#fims-council",
+    "title": "FIMS Team",
+    "section": "FIMS Council",
+    "text": "FIMS Council\n\nAnders Nielsen (DTU-Aqua)\nAndré E. Punt (Chair, SAFS UW)\nAnne M. Cooper (ICES)\nBjarki Þ. Elvarsson (MFRI, Gadget)\nCurry J. Cunningham (NPFMC)\nÉva E. Plagányi (CSIRO)\nGeneviève M. Nesslage (Mid-Atlantic)\nHenning Winker (JRC, Jabba)\nJim N. Sanchirico (UC Davis)\nJon R. Weidenmann (Rutgers)\nMark N. Maunder (IATTC)\nZ. Teresa A’mar (Dragonfly Data Science)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "\n      NOAA Fisheries Integrated Modeling System\n    ",

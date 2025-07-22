@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://e-perl-noaa.github.io/fims-website-test/sites/sites_index.html</loc>
-    <lastmod>2025-07-17T21:10:58.332Z</lastmod>
+    <lastmod>2025-07-22T17:59:10.142Z</lastmod>
   </url>
   <url>
     <loc>https://e-perl-noaa.github.io/fims-website-test/about/index.html</loc>
-    <lastmod>2025-07-17T21:10:58.289Z</lastmod>
+    <lastmod>2025-07-22T17:59:10.099Z</lastmod>
   </url>
   <url>
     <loc>https://e-perl-noaa.github.io/fims-website-test/FIMS_CHANGELOG.html</loc>
-    <lastmod>2025-07-17T21:10:58.288Z</lastmod>
+    <lastmod>2025-07-22T17:59:10.098Z</lastmod>
+  </url>
+  <url>
+    <loc>https://e-perl-noaa.github.io/fims-website-test/about/contributors.html</loc>
+    <lastmod>2025-07-22T17:59:10.099Z</lastmod>
   </url>
   <url>
     <loc>https://e-perl-noaa.github.io/fims-website-test/index.html</loc>
-    <lastmod>2025-07-17T21:10:58.332Z</lastmod>
+    <lastmod>2025-07-22T17:59:10.142Z</lastmod>
   </url>
 </urlset>

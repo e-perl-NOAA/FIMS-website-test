@@ -273,10 +273,21 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../index.html"> 
 <span class="menu-text">home</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="../about/index.html" aria-current="page"> 
-<span class="menu-text">about</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">about</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="../about/index.html">
+ <span class="dropdown-text">about</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../about/contributors.html">
+ <span class="dropdown-text">fims team</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="../sites/sites_index.html"> 
 <span class="menu-text">sites</span></a>
@@ -328,7 +339,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="lead">
 <p>The NOAA Fisheries Integrated Modeling System is a software system designed to support next-generation fisheries stock assessment, ecosystem, and socioeconomic modeling.</p>
-<p>A team of <a href="https://noaa-fims.github.io/authors.md">experts</a> within NOAA Fisheries is designing and developing the system, and we are advised by the FIMS Council which includes academic, industry, and international partners. The roles of internal and external collaborators are outlined in the <a href="https://noaa-fims.github.io/collaborative_workflow/fims-governance.html">governance section</a> of our developer guide.</p>
+<p>A team of <a href="../about/contributors.html">experts</a> within NOAA Fisheries is designing and developing the system, and we are advised by the FIMS Council which includes academic, industry, and international partners. The roles of internal and external collaborators are outlined in the <a href="https://noaa-fims.github.io/collaborative_workflow/fims-governance.html">governance section</a> of our developer guide.</p>
 </div>
 </div></div>
 </div>
@@ -446,6 +457,18 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // Select all anchor tags with href starting with http (external links only)
+  document.querySelectorAll("a[href^='http']").forEach(function(link) {
+    // Ignore links to the current site's domain
+    if (!link.href.includes(window.location.hostname)) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener');
+    }
+  });
+});
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
