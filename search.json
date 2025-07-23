@@ -7,6 +7,13 @@
     "text": "Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n🔍 FIMS case studies\n\n\n\nWHAM\n\nSS3\n\nASAP\n\nTMB\n\n\n\nTest cases, based on regional assessments, to illustrate use of FIMS.\n\n\n\n\n\n\n\n\n\n\n📔 Developer Handbook\n\n\n\ndevelopers\n\ncontributing\n\n\n\nThe FIMS developer handbook describes the workflow for developers and contributors.\n\n\n\n\n\n\n\n\n\n\n💻 Trainings\n\n\n\ntraining\n\nC++\n\nTMB\n\n\n\nFIMS training materials including C++, TMB, etc.\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "fims-weekly/index.html",
+    "href": "fims-weekly/index.html",
+    "title": "FIMS Weekly",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nJuly 21-25, 2025\n\n\n\n\n\n\n\n\nJul 21, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "about/index.html",
     "href": "about/index.html",
     "title": "About FIMS",
@@ -166,6 +173,27 @@
     "title": "FIMS Team",
     "section": "FIMS Council",
     "text": "FIMS Council\n\nAnders Nielsen (DTU-Aqua)\nAndré E. Punt (Chair, SAFS UW)\nAnne M. Cooper (ICES)\nBjarki Þ. Elvarsson (MFRI, Gadget)\nCurry J. Cunningham (NPFMC)\nÉva E. Plagányi (CSIRO)\nGeneviève M. Nesslage (Mid-Atlantic)\nHenning Winker (JRC, Jabba)\nJim N. Sanchirico (UC Davis)\nJon R. Weidenmann (Rutgers)\nMark N. Maunder (IATTC)\nZ. Teresa A’mar (Dragonfly Data Science)"
+  },
+  {
+    "objectID": "fims-weekly/7.21.2025.html#fims-announcements",
+    "href": "fims-weekly/7.21.2025.html#fims-announcements",
+    "title": "July 21-25, 2025",
+    "section": "FIMS ANNOUNCEMENTS",
+    "text": "FIMS ANNOUNCEMENTS"
+  },
+  {
+    "objectID": "fims-weekly/7.21.2025.html#upcoming-events",
+    "href": "fims-weekly/7.21.2025.html#upcoming-events",
+    "title": "July 21-25, 2025",
+    "section": "UPCOMING EVENTS",
+    "text": "UPCOMING EVENTS\n\nTuesday, July 22\nFIMS Code Club (Tackling TODO: items in code) Time: 13:00–14:00 E; 10:00–11:00 P; 9:00–10:00 AK; 7:00–8:00 H Location: Virtual Online: Google Meet\n\n\nThursday, July 24\nFIMS Seaside Chat (🤷) Time: 13:00–14:00 E; 10:00–11:00 P; 9:00–10:00 AK; 7:00–8:00 H Location: Virtual Online: Google Meet"
+  },
+  {
+    "objectID": "fims-weekly/7.21.2025.html#photo-of-the-week",
+    "href": "fims-weekly/7.21.2025.html#photo-of-the-week",
+    "title": "July 21-25, 2025",
+    "section": "PHOTO OF THE WEEK",
+    "text": "PHOTO OF THE WEEK\nR-opensci has guidance on writing tests for packages submitted that Bai is looking into. But, it was pretty mind blowing to learn that there is a way to add comments to a commit message that can invoke “extended” tests, i.e., tests that do not need to be run on every commit. It was nice to know that others have been thinking about this as FIMS has struggled to find a resource or advice on what to do, see Discussion #870. Feel free to add any thoughts about the system below or other insights to running large tests on the Discussion board. Thank you in advance for taking the time to contribute 😊."
   },
   {
     "objectID": "index.html",
