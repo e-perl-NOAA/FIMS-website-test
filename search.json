@@ -175,6 +175,13 @@
     "text": "FIMS Council\n\nAnders Nielsen (DTU-Aqua)\nAndré E. Punt (Chair, SAFS UW)\nAnne M. Cooper (ICES)\nBjarki Þ. Elvarsson (MFRI, Gadget)\nCurry J. Cunningham (NPFMC)\nÉva E. Plagányi (CSIRO)\nGeneviève M. Nesslage (Mid-Atlantic)\nHenning Winker (JRC, Jabba)\nJim N. Sanchirico (UC Davis)\nJon R. Weidenmann (Rutgers)\nMark N. Maunder (IATTC)\nZ. Teresa A’mar (Dragonfly Data Science)"
   },
   {
+    "objectID": "fims-weekly/7.21.2025.html#three-big-things-this-week",
+    "href": "fims-weekly/7.21.2025.html#three-big-things-this-week",
+    "title": "July 21-25, 2025",
+    "section": "THREE BIG THINGS THIS WEEK",
+    "text": "THREE BIG THINGS THIS WEEK\n\n\nWe are now successfully building FIMS on ALL operating systems on GitHub actions and R-universe thanks to many hours from Andrea, Bai, and Matthew. Way to go 💪👍! This week we will continue to work on problems with {devtools} 🤦 to see if we should submit an issue to {devtools} or if we just will not be able to run devtools::test() multiple times in a row.\nInitial testing and design of projections and reference points has started and will continue this week. Projections and reference points will more than likely be the topic of interest for our next Implementation Team Meeting. So, get ready to make some decisions.\nLength-based selectivity is coming along and will be rebased to the current dev branch this week."
+  },
+  {
     "objectID": "fims-weekly/7.21.2025.html#fims-announcements",
     "href": "fims-weekly/7.21.2025.html#fims-announcements",
     "title": "July 21-25, 2025",
