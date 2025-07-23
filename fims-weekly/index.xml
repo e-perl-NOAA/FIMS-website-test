@@ -8,7 +8,7 @@
 <title>FIMS</title>
 <link>https://e-perl-noaa.github.io/fims-website-test/fims-weekly/</link>
 <atom:link href="https://e-perl-noaa.github.io/fims-website-test/fims-weekly/index.xml" rel="self" type="application/rss+xml"/>
-<description>Mostly things I&#39;ve figured out and wanted to share with you. Or remember later. Or things I wrote about because I wanted to learn something new. Occasional ramblings, sometimes thoughts.
+<description>FIMS weekly blog.
 </description>
 <generator>quarto-1.7.32</generator>
 <lastBuildDate>Mon, 21 Jul 2025 00:00:00 GMT</lastBuildDate>
@@ -21,7 +21,7 @@
 
 
 
-<p><img src="https://e-perl-noaa.github.io/fims-website-test/fims-weekly/images/fims_weekly.png" class="img-fluid" alt="FIMS hex icon and noaa logo with text saying FIMS Weekly"></p>
+<p><img src="https://e-perl-noaa.github.io/fims-website-test/fims-weekly/images/fims_weekly.png" class="header-image img-fluid" alt="FIMS hex icon and noaa logo with text saying FIMS Weekly"></p>
 <div style="height:6em;">
 
 </div>
